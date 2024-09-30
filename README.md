@@ -1,35 +1,16 @@
-# seven-order-page
+## 飲料簡易點餐頁面
+Demo: https://carolxuan.github.io/seven-order-system/
 
-This template should help get you started developing with Vue 3 in Vite.
+### 主要功能
+* 新增產品
+* 刪除產品
+* 數量顯示
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+### 使用技術：
+* HTML、SCSS
+* Bootstrap 5 格線系統、元件
+* Vite 管理專案
+* Vue.js + JavaScript 資料處理及渲染
+* Pinia 模組化資料管理
+* components 管理頁面
